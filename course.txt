@@ -1,0 +1,4 @@
+o	Python 
+o	Data Structures 
+o	Database Management System 
+o	Computer Networks 
