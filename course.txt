@@ -1,4 +1,8 @@
 o	Python 
 o	Data Structures 
 o	Database Management System 
-o	Computer Networks 
+o	Computer Networks
+int331
+int249
+int 279
+
